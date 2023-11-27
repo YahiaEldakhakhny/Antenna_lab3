@@ -13,3 +13,8 @@ This function generates the tchebychev polynomial of degree m
 
 ## tcheby_AF_cartesian_2D
 This function draws the AF of tchebyshev array in 2D in cartesian coordinates
+
+## tcheby_AF_polar_2D
+This function draws the AF of a tchebyshev array in 2D in polar coordinates
+
+
