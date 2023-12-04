@@ -11,6 +11,7 @@ x = AF*sin(phi).*cos(theta);
 y = AF*sin(phi).*sin(theta);
 z = AF.*cos(phi);
 
+figure
 fsurf(x,y,z,[0 pi 0 2*pi])
 axis equal
 end
